@@ -69,6 +69,16 @@ header p {
     grid-gap: 10px;
 }
 
+.buttons.random {
+    grid-template-columns: 1fr;
+}
+
+@media (max-width: 600px) {
+    .buttons {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
+
 button {
     font-family: 'Akaya Kanadaka', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', 'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', sans-serif;
     font-size: 20px;
@@ -81,12 +91,12 @@ button:hover {
     transition: color 0.5s ease;
 }
 
-button.misc {
+button.food {
     background: #FF9AB9;
     border: 3px solid #E87799;
 }
 
-button.food {
+button.misc {
     background: #AEEFFE;
     border: 3px solid #82CCF4;
 }
@@ -94,6 +104,11 @@ button.food {
 button.plan {
     background: #F5F9A5;
     border: 3px solid #CCE081;
+}
+
+button.random {
+    background: #debef4;
+    border: 3px solid #b7a9cf;
 }
 
 button .icon {

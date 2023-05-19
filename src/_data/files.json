@@ -1,5 +1,6 @@
 {
     "misc": [
+        { "file": "misc-brianbutterfield", "title": "Brian Butterfield", "icon": "smile" },
         { "file": "misc-followthisdiet", "title": "Follow this Diet", "icon": "clipboard-list" },
         { "file": "misc-itsuptoyou", "title": "It's Up to You", "icon": "thumbs-up" },
         { "file": "misc-younameit", "title": "You Name It", "icon": "wand-magic" },
@@ -8,7 +9,13 @@
         { "file": "misc-saturdayistreatday", "title": "Saturday is Treat Day", "icon": "calendar-star" },
         { "file": "misc-24hourseatanything", "title": "Eat Anything", "icon": "stopwatch" },
         { "file": "misc-weekdayplan", "title": "Weekday Plan", "icon": "clipboard-user" },
-        { "file": "misc-sundayisrestday", "title": "Sunday is Rest Day", "icon": "bed" }
+        { "file": "misc-sundayisrestday", "title": "Sunday is Rest Day", "icon": "bed" },
+        { "file": "misc-butterfielddietplan", "title": "Diet Plan", "icon": "weight" },
+        { "file": "misc-feelikeanewman", "title": "I Feel Like a New Man", "icon": "baby" },
+        { "file": "misc-lookatmenow", "title": "Just Look at me Now", "icon": "sunglasses" },
+        { "file": "misc-loosetrousers", "title": "These Trousers are Loose", "icon": "lasso" },
+        { "file": "misc-newbelt", "title": "I Need a New Belt", "icon": "money-bill" },
+        { "file": "misc-www", "title": "www", "icon": "browser" }
     ],
     "plan": [
         { "file": "plan-breakfast", "title": "Breakfast", "icon": "utensil-knife" },
@@ -20,7 +27,7 @@
         { "file": "food-artificalbacon", "title": "Articial Bacon (Facon™)", "icon": "bacon" },
         { "file": "food-birthdaypie", "title": "Birthday Pie", "icon": "birthday-cake" },
         { "file": "food-bonbonbonbon", "title": "Bon Bon Bon Bons", "icon": "circle" },
-        { "file": "food-cheeseomelette", "title": "20-Cheese Omelette", "icon": "egg-fried" },
+        { "file": "food-cheeseomelette", "title": "20-Cheese Omelette", "icon": "cheese-swiss fa-flip-horizontal" },
         { "file": "food-chocolatequalseggs", "title": "Chocolate Quail's Eggs", "icon": "egg" },
         { "file": "food-crispyowl", "title": "Hoison Crispy Owl", "icon": "drumstick" },
         { "file": "food-discountfoisgrois", "title": "Discount Foie Gras", "icon": "duck" },
@@ -36,7 +43,7 @@
         { "file": "food-pizza", "title": "Pizza", "icon": "pizza-slice" },
         { "file": "food-porkcylinders", "title": "Pork Cylinders", "icon": "pig" },
         { "file": "food-potatogrids", "title": "Potato Grids", "icon": "game-board" },
-        { "file": "food-quicheslorraine", "title": "Quiches Lorraine", "icon": "bacon" },
+        { "file": "food-quicheslorraine", "title": "Quiches Lorraine", "icon": "cheese" },
         { "file": "food-sandwichcass", "title": "Sandwich Casserole", "icon": "sandwich" }
     ]
 }
