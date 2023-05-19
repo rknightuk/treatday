@@ -1,0 +1,112 @@
+/* CSS */
+
+@import url(https://fonts.bunny.net/css?family=akaya-kanadaka:400);
+
+:root {
+    --text: #34495e;
+    --background: #FFEFD5;
+}
+
+audio {
+    display: none;
+}
+
+body {
+    font-family: 'Akaya Kanadaka', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', 'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', sans-serif;
+    line-height: 1.4;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 10px;
+    word-wrap: break-word;
+    color: #34495e;
+    color: var(--text);
+    background: #FFEFD5;
+    background: var(--background);
+    text-rendering: optimizeLegibility;
+    font-size: 20px;
+}
+
+.header-image {
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: -8px;
+}
+
+.header-image img {
+    transition: 0.7s linear;
+}
+
+.header-image img:hover {
+    transform: scale(2);
+}
+
+header {
+    text-align: center;
+    overflow: auto;
+    margin-bottom: 10px;
+    background-color: #f39c12;
+    border: 3px solid #c47c0e;
+    color: white;
+}
+
+header h1 {
+    margin-bottom: 0;
+    text-shadow: 2px 2px black;
+}
+
+header p {
+    margin-top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.buttons {
+    margin-bottom: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 10px;
+}
+
+button {
+    font-family: 'Akaya Kanadaka', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', 'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', sans-serif;
+    font-size: 20px;
+    padding: 10px;
+    color: var(--text);
+}
+
+button:hover {
+    color: black;
+    transition: color 0.5s ease;
+}
+
+button.misc {
+    background: #FF9AB9;
+    border: 3px solid #E87799;
+}
+
+button.food {
+    background: #AEEFFE;
+    border: 3px solid #82CCF4;
+}
+
+button.plan {
+    background: #F5F9A5;
+    border: 3px solid #CCE081;
+}
+
+button .icon {
+    font-size: 30px;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.github-corner {
+    color: var(--background);
+}
+
+footer {
+    text-align: center;
+}

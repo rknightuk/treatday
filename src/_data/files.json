@@ -1,0 +1,42 @@
+{
+    "misc": [
+        { "file": "misc-followthisdiet", "title": "Follow this Diet", "icon": "clipboard-list" },
+        { "file": "misc-itsuptoyou", "title": "It's Up to You", "icon": "thumbs-up" },
+        { "file": "misc-younameit", "title": "You Name It", "icon": "wand-magic" },
+        { "file": "misc-results", "title": "The Results", "icon": "chart-line-down" },
+        { "file": "misc-weekendreward", "title": "Time for Your Reward", "icon": "gift" },
+        { "file": "misc-saturdayistreatday", "title": "Saturday is Treat Day", "icon": "calendar-star" },
+        { "file": "misc-24hourseatanything", "title": "Eat Anything", "icon": "stopwatch" },
+        { "file": "misc-weekdayplan", "title": "Weekday Plan", "icon": "clipboard-user" },
+        { "file": "misc-sundayisrestday", "title": "Sunday is Rest Day", "icon": "bed" }
+    ],
+    "plan": [
+        { "file": "plan-breakfast", "title": "Breakfast", "icon": "utensil-knife" },
+        { "file": "plan-lunch", "title": "Lunch", "icon": "salad" },
+        { "file": "plan-dinner", "title": "Dinner", "icon": "turkey" },
+        { "file": "plan-pudding", "title": "Pudding", "icon": "utensil-spoon" }
+    ],
+    "food": [
+        { "file": "food-artificalbacon", "title": "Articial Bacon (Facon™)", "icon": "bacon" },
+        { "file": "food-birthdaypie", "title": "Birthday Pie", "icon": "birthday-cake" },
+        { "file": "food-bonbonbonbon", "title": "Bon Bon Bon Bons", "icon": "circle" },
+        { "file": "food-cheeseomelette", "title": "20-Cheese Omelette", "icon": "egg-fried" },
+        { "file": "food-chocolatequalseggs", "title": "Chocolate Quail's Eggs", "icon": "egg" },
+        { "file": "food-crispyowl", "title": "Hoison Crispy Owl", "icon": "drumstick" },
+        { "file": "food-discountfoisgrois", "title": "Discount Foie Gras", "icon": "duck" },
+        { "file": "food-duringdinnermints", "title": "During Dinner Mints", "icon": "square" },
+        { "file": "food-egghamslabs", "title": "Egg 'n' Ham Slabs", "icon": "meat" },
+        { "file": "food-fluffyruffs", "title": "Fluffy Ruffs", "icon": "bread-loaf" },
+        { "file": "food-garlicpudding", "title": "Garlic Pudding", "icon": "pie" },
+        { "file": "food-largemacs", "title": "Large Macs", "icon": "cheeseburger" },
+        { "file": "food-mcfortunecookies", "title": "McFortune Cookies", "icon": "cookie-bite" },
+        { "file": "food-mysterymeat", "title": "Mystery Meat", "icon": "question" },
+        { "file": "food-pastapillows", "title": "Pasta Pillows", "icon": "blanket" },
+        { "file": "food-pintsocream", "title": "Pints O' Cream", "icon": "ice-cream" },
+        { "file": "food-pizza", "title": "Pizza", "icon": "pizza-slice" },
+        { "file": "food-porkcylinders", "title": "Pork Cylinders", "icon": "pig" },
+        { "file": "food-potatogrids", "title": "Potato Grids", "icon": "game-board" },
+        { "file": "food-quicheslorraine", "title": "Quiches Lorraine", "icon": "bacon" },
+        { "file": "food-sandwichcass", "title": "Sandwich Casserole", "icon": "sandwich" }
+    ]
+}
