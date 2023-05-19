@@ -34,6 +34,7 @@ body {
 
 .header-image img {
     transition: 0.7s linear;
+    max-width: 100%;
 }
 
 .header-image img:hover {
