@@ -37,7 +37,7 @@
         </div>
         <header>
             <h1>Brian Butterfield Diet Soundboard</h1>
-            <p><a href="https://www.youtube.com/watch?v=1NjTWvl8x-U" target="_blank" rel="noopener">what is this?</a></p>
+            <p><a href="https://www.youtube.com/watch?v=1NjTWvl8x-U" target="_blank" rel="noopener">what is this?</a>&nbsp;<a href="https://www.youtube.com/watch?v=Nyk6sXHY9Vg" target="_blank" rel="noopener">what is this but at christmas?</a></p>
         </header>
 
         <div class="buttons random">
@@ -64,6 +64,11 @@
                 <button class="food" data-key="{{ food.file }}"><i class="icon fad fa-{{ food.icon }}"></i> <br>{{ food.title }}</button>
                 <audio data-key="{{ food.file }}" src="/files/{{ food.file }}.mp3"></audio>
             {% endfor %}
+            {% for xmas in files.xmas %}
+                <button class="xmas" data-key="{{ xmas.file }}"><i class="icon fad fa-{{ xmas.icon }}"></i> <br>{{ xmas.title }}</button>
+                <audio data-key="{{ xmas.file }}" src="/files/{{ xmas.file }}.mp3"></audio>
+            {% endfor %}
+
         </div>
 
         <footer>

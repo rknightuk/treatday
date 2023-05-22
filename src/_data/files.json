@@ -45,5 +45,24 @@
         { "file": "food-potatogrids", "title": "Potato Grids", "icon": "game-board" },
         { "file": "food-quicheslorraine", "title": "Quiches Lorraine", "icon": "cheese" },
         { "file": "food-sandwichcass", "title": "Sandwich Casserole", "icon": "sandwich" }
+    ],
+    "xmas": [
+        { "file": "xmas-christmaspizza", "title": "Christmas Pizza", "icon": "pizza" },
+        { "file": "xmas-babyporkcylinders", "title": "Baby Pork Cylinders", "icon": "pig" },
+        { "file": "xmas-belgiansprouts", "title": "Belgian Sprouts", "icon": "scrubber" },
+        { "file": "xmas-bonbonbonbons", "title": "Christmas Bonbonbonbons", "icon": "circle" },
+        { "file": "xmas-bonsaibrandybottle", "title": "Bonsai Brandy Bottle", "icon": "wine-bottle" },
+        { "file": "xmas-clownnosefruit", "title": "Clown Nose Fruit", "icon": "frosty-head" },
+        { "file": "xmas-chocolatecurrency", "title": "Chocolate Currency", "icon": "coin" },
+        { "file": "xmas-eggandhamdeltoids", "title": "Egg and Ham Deltoids", "icon": "sandwich" },
+        { "file": "xmas-hiberbianeggs", "title": "Hibernian Eggs", "icon": "egg" },
+        { "file": "xmas-indigestiontablets", "title": "Indigestion Tablets", "icon": "tablets" },
+        { "file": "xmas-mincepies", "title": "Mince Pies", "icon": "pie" },
+        { "file": "xmas-minimincepies", "title": "Mini Mince Pies", "icon": "pie fa-xs" },
+        { "file": "xmas-noncalendardates", "title": "Non-Calendar Dates", "icon": "calendar-times" },
+        { "file": "xmas-nuttynutnuts", "title": "Nutty Nut-Nuts", "icon": "acorn" },
+        { "file": "xmas-orangefishflesh", "title": "Orange Fish Flesh", "icon": "fish-cooked" },
+        { "file": "xmas-turkeychicken", "title": "Turkey Flavoured Chicken", "icon": "turkey" },
+        { "file": "xmas-veincheese", "title": "Varacose-Vein Cheese", "icon": "cheese" }
     ]
 }

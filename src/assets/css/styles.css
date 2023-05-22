@@ -33,12 +33,7 @@ body {
 }
 
 .header-image img {
-    transition: 0.7s linear;
     max-width: 100%;
-}
-
-.header-image img:hover {
-    transform: scale(2);
 }
 
 header {
@@ -106,6 +101,11 @@ button.plan {
     border: 3px solid #CCE081;
 }
 
+button.xmas {
+    background: #55efc4;
+    border: 3px solid #00b894;
+}
+
 button.random {
     background: #debef4;
     border: 3px solid #b7a9cf;
@@ -113,6 +113,10 @@ button.random {
 
 button .icon {
     font-size: 30px;
+}
+
+.fa-xs {
+    font-size: 14px!important;
 }
 
 button:hover {
