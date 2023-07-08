@@ -50,7 +50,7 @@
         { "file": "xmas-christmaspizza", "title": "Christmas Pizza", "icon": "pizza" },
         { "file": "xmas-babyporkcylinders", "title": "Baby Pork Cylinders", "icon": "pig" },
         { "file": "xmas-belgiansprouts", "title": "Belgian Sprouts", "icon": "scrubber" },
-        { "file": "xmas-bonbonbonbons", "title": "Christmas Bonbonbonbons", "icon": "circle" },
+        { "file": "xmas-bonbonbonbons", "title": "Christmas Bon Bon Bon Bons", "icon": "circle" },
         { "file": "xmas-bonsaibrandybottle", "title": "Bonsai Brandy Bottle", "icon": "wine-bottle" },
         { "file": "xmas-clownnosefruit", "title": "Clown Nose Fruit", "icon": "frosty-head" },
         { "file": "xmas-chocolatecurrency", "title": "Chocolate Currency", "icon": "coin" },
@@ -64,5 +64,29 @@
         { "file": "xmas-orangefishflesh", "title": "Orange Fish Flesh", "icon": "fish-cooked" },
         { "file": "xmas-turkeychicken", "title": "Turkey Flavoured Chicken", "icon": "turkey" },
         { "file": "xmas-veincheese", "title": "Varacose-Vein Cheese", "icon": "cheese" }
+    ],
+    "sports": [
+        { "file": "sports-sports_restaurant", "title": "Sports Restaurant", "icon": "utensils-alt" },
+        { "file": "sports-chefs_specials", "title": "The Chefs Specials", "icon": "clipboard-list" },
+        { "file": "sports-dine_like_a_champion", "title": "Dine Like a Champion", "icon": "trophy" },
+        { "file": "sports-javelin_in_cloud_dinner", "title": "Javelin in Cloud Dinner", "icon": "clouds" },
+        { "file": "sports-hot_mini_cricket_stumps_and_fried_flag", "title": "Hot Mini Cricket Stumps and Fried Flag", "icon": "cricket" },
+        { "file": "sports-tomato_and_tennis_shoelaces", "title": "Tomato and Tennis Shoelaces", "icon": "racquet" },
+        { "file": "sports-sports_bread", "title": "Sports Bread", "icon": "bread-slice" },
+        { "file": "sports-sports_pizza", "title": "Sports Pizza", "icon": "pizza" },
+        { "file": "sports-listen_toppings", "title": "Listen to these Toppings", "icon": "ear" },
+        { "file": "sports-energy_boxes", "title": "Energy Boxes", "icon": "cubes" },
+        { "file": "sports-shrunken_cods", "title": "Shrunken Cods", "icon": "fish-cooked" },
+        { "file": "sports-replica_ping_pong_bats", "title": "Replica Ping Pong Bats", "icon": "table-tennis" },
+        { "file": "sports-sport_ball_bonbon", "title": "Sport Ball Bon Bon Bon Bons", "icon": "circle" },
+        { "file": "sports-decorative_plastic_exercise_men", "title": "Decorative Plastic Exercise Men", "icon": "male" },
+        { "file": "sports-poor_mans_football", "title": "Poor Man's Football", "icon": "futbol" },
+        { "file": "sports-sportsman_crunchy_discs", "title": "Sportman's Crunchy Discs", "icon": "cookie-bite" },
+        { "file": "sports-fun_whistle_crust", "title": "Fun Whistle Crust™", "icon": "pizza-slice" },
+        { "file": "sports-put_it_to_your_lips_and_blow", "title": "Put It to Your Lips and Blow", "icon": "lips" },
+        { "file": "sports-whistle", "title": "Crust Whistle", "icon": "whistle fa-rotate-180" },
+        { "file": "sports-whistle2", "title": "Crust Whistle Again", "icon": "whistle" },
+        { "file": "sports-olive_stuck_in_there", "title": "An Olive Stuck in There", "icon": "tablets" },
+        { "file": "sports-we_dont_have_toilets", "title": "We Don't Have Toilets", "icon": "toilet-paper-slash" }
     ]
 }

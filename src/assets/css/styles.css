@@ -52,9 +52,6 @@ header h1 {
 
 header p {
     margin-top: 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 .buttons {
@@ -104,6 +101,11 @@ button.plan {
 button.xmas {
     background: #55efc4;
     border: 3px solid #00b894;
+}
+
+button.sports {
+    background: #fbbd5c;
+    border: 3px solid #f39c12;
 }
 
 button.random {
